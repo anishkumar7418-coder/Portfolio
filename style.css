@@ -10,7 +10,6 @@ body {
   background: #f5f7fa;
   color: #333;
   line-height: 1.6;
-  
 }
 
 /* Header */
@@ -117,43 +116,3 @@ footer {
     transform: translateY(0);
   }
 }
-
-.buttons{
-
-  position: absolute;
-
-  left: 95%;
-  top: 22px;
-  border: solid;
-  border-radius: 10px;
-  
- 
-  
-}
-  
-
-.light{
-
-background-color: rgb(255, 255, 255);
- 
-  border: none;
-  padding: 15px;
-}
-
-  .dark{
-
-
- background-color: white;
-  border: none;
-  padding: 15px;
-}
-
-.buttons img{
-
-  width: 15px;
-  height: 15px;
- 
-}
-
-
-
